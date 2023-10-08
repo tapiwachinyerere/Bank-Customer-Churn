@@ -1,5 +1,13 @@
 # Bank-Customer-Churn
-As we know, it is much more expensive to sign in a new client than keeping an existing one.
+As we know, it is much more expensive to sign in a new client than keeping an existing one. This repository contains the code and documentation for a Bank Customer Churn Analysis project. The goal of this project is to predict customer churn in a bank, helping the bank to identify and retain customers at risk of leaving.
+
+# Project Description
+Customer churn (attrition) is a critical concern for banks and financial institutions. It is more cost-effective to retain existing customers than to acquire new ones. In this project, we aim to:
+
+Analyze customer data to identify factors that contribute to churn.
+Develop predictive models to forecast customer churn.
+Provide actionable insights to reduce churn and improve customer retention.
+We use machine learning techniques and data analysis to achieve these objectives.
 
 # About Dataset
 
